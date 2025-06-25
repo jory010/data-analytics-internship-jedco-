@@ -15,7 +15,7 @@ The internship focused on:
 
 | Folder | Description |
 |--------|-------------|
-| `reports/` | Weekly reports (English + Arabic versions) |
+| `reports/` | Weekly reports (English versions) |
 | `documents/` | Official docs related to the internship project |
 | `images/` | Architecture diagrams, dashboard screenshots, etc. |
 | `dataiku_projects/` | Snapshots of projects/models built in Dataiku |
