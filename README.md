@@ -18,14 +18,10 @@ The internship focused on:
 | `reports/` | Weekly reports (English versions) |
 | `documents/` | Official docs related to the internship project |
 | `images/` | Architecture diagrams, dashboard screenshots, etc. |
-| `dataiku_projects/` | Snapshots of projects/models built in Dataiku |
+| `projects/` | Snapshots of projects/models |
 | `notes/` | Notes from training sessions, courses, and meetings |
 
 ## 👩‍💻 Tools & Platforms Used
-- Dataiku
-- Power BI
-- PostgreSQL
-- Informatica
 - Google Cloud AI/ML training
 
 ---
