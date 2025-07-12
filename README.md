@@ -28,3 +28,6 @@ The internship focused on:
 
 📝 *All files are prepared and submitted as part of the academic internship evaluation.*
 
+License
+This project is licensed under the CC BY-ND 4.0 license.
+You can share it, but please do not modify or reuse parts of it without permission.
